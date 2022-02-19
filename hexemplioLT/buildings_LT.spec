@@ -9,6 +9,7 @@ options = "+Freeciv-2.6-spec"
 artists = "
     Sketlux
     Ngunjaca
+    Daavko
 "
 
 [extra]
@@ -17,5 +18,5 @@ sprites =
 		"b.academy", "hexemplioLT/buildings/academy" ; Sketlux
         "b.mercantile_exchange", "hexemplioLT/buildings/mercantile_exchange" ; Sketlux
         "b.occupationgov", "hexemplioLT/buildings/occupationgov" ; Ngunjaca
-        "b.workshop", "hexemplioLT/buildings/workshop" ; Sketlux
+        "b.workshop", "hexemplioLT/buildings/workshop" ; Ngunjaca with edits by Daavko
 	}
