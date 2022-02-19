@@ -16,6 +16,7 @@ sprites =
         "b.atlantic_telegraph_company", "hexemplioLT/wonders/atlantic_telegraph_company"
         "b.baudhayana", "hexemplioLT/wonders/baudhayana"
         "b.guangzhou_port_facility", "hexemplioLT/wonders/guangzhou_port_facility"
+        "b.terracotta_army", "hexemplioLT/wonders/terracotta_army"
         "b.trade_company", "hexemplioLT/wonders/trade_company"
         "b.verrocchios_workshop", "hexemplioLT/wonders/verrocchios_workshop"
 	}
