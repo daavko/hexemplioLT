@@ -22,4 +22,5 @@ sprites =
         "b.verrocchios_workshop", "hexemplioLT/wonders/verrocchios_workshop"
         "b.weorg", "hexemplioLT/wonders/paris_agreement" ; Daavko (same wonder as b.theparis, before it got renamed)
         "b.theparis", "hexemplioLT/wonders/paris_agreement" ; Daavko
+        "b.geunion", "hexemplioLT/wonders/global_emission_union" ; From original Freeciv Factory sprite with edits by Daavko
 	}
