@@ -8,6 +8,7 @@ options = "+Freeciv-2.6-spec"
 
 artists = "
     Sketlux
+    Daavko <david.konir@gmail.com>
 "
 
 [extra]
@@ -19,4 +20,6 @@ sprites =
         "b.terracotta_army", "hexemplioLT/wonders/terracotta_army"
         "b.trade_company", "hexemplioLT/wonders/trade_company"
         "b.verrocchios_workshop", "hexemplioLT/wonders/verrocchios_workshop"
+        "b.weorg", "hexemplioLT/wonders/paris_agreement" ; Daavko (same wonder as b.theparis, before it got renamed)
+        "b.theparis", "hexemplioLT/wonders/paris_agreement" ; Daavko
 	}
