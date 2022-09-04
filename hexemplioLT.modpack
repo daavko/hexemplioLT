@@ -3,7 +3,7 @@ options = "+Freeciv-2.6-modpack"
 baseURL = "https://freeciv.daavko.net/tilesets"
 name = "hexemplioLT"
 type = "Tileset"
-version = "1.6"
+version = "1.7"
 
 [files]
 list = 
