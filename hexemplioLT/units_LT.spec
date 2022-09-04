@@ -33,6 +33,7 @@ tiles = { "row", "column", "tag"
   0, 7, "u.infantry"   ; modded_by_HF
   0, 8, "u.operative"  ; modded_by_HF
   0, 9, "u.nsubmarine" ; modded_by_HF
+  0, 9, "u.nsubmarinetii" ; same sprite as u.nsubmarine used for now
   0, 10, "u.fusion_bomber" ; modded_by_HF
   0, 11, "u.fusion_armor" ; Sketlux
   0, 12, "u.nuclearbomb" ; Sketlux
