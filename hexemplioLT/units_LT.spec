@@ -8,7 +8,10 @@ options = "+Freeciv-2.6-spec"
 
 ; Additional icons for LongTurn-specific units.
 
-artists = "Hugo Flavio (by editing icons present in the regular Amplio2 pack and other modpacks)"
+artists = "
+    Hugo Flavio (by editing icons present in the regular Amplio2 pack and other modpacks)
+    Daavko <david.konir@gmail.com>
+"
 
 [file]
 gfx = "hexemplioLT/units_LT"
@@ -51,4 +54,5 @@ tiles = { "row", "column", "tag"
   2, 1, "u.cog"       ; Ngunjaca
   2, 2, "u.pcutter"   ; VladimirSlavik
   2, 3, "u.flagship_frigate" ; modded_by_Sketlux (XYZ)
+  2, 4, "u.atorpedo" ; modded from Freeciv Nuclear sprite by Daavko
   }
