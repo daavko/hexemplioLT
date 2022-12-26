@@ -2,6 +2,8 @@
 
 A modified version of Hexemplio with some extra units for games played on Longturn.net
 
+This version is for Freeciv21
+
 ## Differences between this and regular Hexemplio
 
 - Unit, building, and wonder graphics for the LTT and LTX rulesets
@@ -11,7 +13,7 @@ A modified version of Hexemplio with some extra units for games played on Longtu
 
 ## Installing using the modpack installer
 
-Use the following url for the modpack installer: [https://freeciv.daavko.net/tilesets/hexemplioLT.modpack](https://freeciv.daavko.net/tilesets/hexemplioLT.modpack)
+Use the following url for the modpack installer: [https://freeciv.daavko.net/tilesets/hexemplioLT21/hexemplioLT.json](https://freeciv.daavko.net/tilesets/hexemplioLT21/hexemplioLT.json)
 
 ## License
 
