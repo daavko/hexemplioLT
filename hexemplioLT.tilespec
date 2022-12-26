@@ -60,8 +60,8 @@ activity_offset_x = 67
 activity_offset_y = 17
 
 ; offset of the selected unit sprites
-select_offset_x = 0
-select_offset_y = 21
+select_offset_x = -4
+select_offset_y = 0
 ; delay between two consecutive images
 ;select_step_ms = 100
 
