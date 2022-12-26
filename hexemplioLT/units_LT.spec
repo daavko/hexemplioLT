@@ -50,6 +50,7 @@ tiles = { "row", "column", "tag"
   1, 4, "u.fusion_missile" ; modded from the above by HF
   1, 5, "u.trebuchet" ; HF & louis94
   1, 6, "u.navytroops" ; Sketlux (XYZ)
+  1, 7, "u.wlongboat"  ; combined from u.longboat and u.srcaravel by Daavko
   2, 0, "u.pirogue"   ; Ngunjaca
   2, 1, "u.cog"       ; Ngunjaca
   2, 2, "u.pcutter"   ; VladimirSlavik
