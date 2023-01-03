@@ -40,8 +40,8 @@ darkness_style = "CardinalSingle"
 ; offset the flags by this amount when drawing units
 unit_flag_offset_x = 33
 unit_flag_offset_y = 32
-city_flag_offset_x = 41
-city_flag_offset_y = 10
+city_flag_offset_x = 38
+city_flag_offset_y = 15
 
 ; offset the city occupied sprite by this amount
 occupied_offset_x = 0
@@ -71,8 +71,8 @@ city_offset_y = 21
 
 ; offset the city size number by this amount
 ; This is relative to full sprite origin.
-city_size_offset_x = 0
-city_size_offset_y = 0
+city_size_offset_x = -1
+city_size_offset_y = 8
 
 ; offset the city bar text by this amount (from the city tile origin)
 citybar_offset_y = 40
