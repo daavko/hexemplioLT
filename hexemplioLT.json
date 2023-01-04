@@ -4,7 +4,7 @@
 		"base_url": "https://freeciv.daavko.net/tilesets/hexemplioLT21",
 		"name": "hexemplioLT",
 		"type": "Tileset",
-		"version": "2.1"
+		"version": "2.2"
 	},
 	"files": [
 		"hexemplioLT.tilespec",
